@@ -1,0 +1,24 @@
+.padre{
+	border-top: 20px solid #9900FF;
+	border-bottom: 20px solid #9900FF;
+	border-right: 10px solid #9900FF;
+	border-left: 10px solid #9900FF;
+	margin: 120px 60px 30.5px;
+	background-color: #F9CB9C;
+	padding: 40px 20px 70px 100px;
+	border-radius: 10px;
+}
+.hijo{
+	background-color: white;
+	border: 2px dashed #38761D;
+	height: 100px;
+	text-align: center;
+	line-height: 40px;
+}
+.abuelo{
+	width: 500px;
+	height: 300px;
+}
+body{
+	background-color: #FFFFFF;
+}
